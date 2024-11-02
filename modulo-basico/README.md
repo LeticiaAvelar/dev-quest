@@ -17,17 +17,5 @@ Este projeto faz parte do curso **Dev Quest** ministrado pelo canal **Dev em Dob
 
 ## 📂 Estrutura do Repositório
 
-- `modulo-html-basico/` e `modulo-css-basico/`: Códigos de exemplos apresentados durante as aulas.
+- `modulo-html-basico/`; `modulo-css-basico/`: Códigos de exemplos apresentados durante as aulas.
 - `exercicios-html-css-basico/`: Desafios e exercícios práticos realizados para reforçar os conceitos.
-
-
-
-## 📈 Progresso
-
-O curso está em andamento e o repositório será atualizado conforme novas lições forem concluídas.
-
-
-
-## 📚 Sobre o Curso
-
-O **Dev Quest** é voltado para iniciantes e ensina de forma prática e descomplicada os fundamentos da programação web, do básico ao avançado. Este módulo foca em HTML e CSS para criar a estrutura e estilo de páginas web. Futuramente também serei formalmente apresentada ao Java Script.
