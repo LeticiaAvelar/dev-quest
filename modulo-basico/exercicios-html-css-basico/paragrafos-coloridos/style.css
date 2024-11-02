@@ -1,0 +1,15 @@
+.texto {
+    margin-bottom: 40px;
+    margin-top: 0;
+    padding: 20px;
+
+    /* é uma classe modificadora, ou seja, como os dois parágrafos têm o mesmo valor genérico/padrão, para não gerar repetição e deixar o código verboso, é recomendado que crie essa classe a fim de que cada elemento fique apenas com sua responsabilidade, sem duplicações. */
+}
+
+.paragrafo-padrao {
+    background-color: #F5F5F5;
+}
+
+.paragrafo-destacado {
+    background-color: #F0CCE2;
+}
