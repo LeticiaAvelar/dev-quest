@@ -1,5 +1,9 @@
 # HTML5 (Básico) :book:
 
+:link: ​Notion: https://glowing-scilla-18d.notion.site/HTML5-B-sico-121bf6c7b63d80c7b61ddb99e809d3b0?pvs=4
+
+
+
 É uma linguagem de **marcação**.
 
 Tim Berners-Lee e Roberto Cailliau foram os criadores do HTML.

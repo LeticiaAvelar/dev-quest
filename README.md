@@ -13,3 +13,7 @@ O **Dev Quest** é voltado para iniciantes e ensina de forma prática e descompl
 ## 📈 Progresso
 
 O curso está em andamento e o repositório será atualizado conforme novas lições forem concluídas.
+
+
+
+ :link:  Acompanhe meu desenvolvimento e anotações pelo [Notion](https://glowing-scilla-18d.notion.site/Resumos-DevQuest-121bf6c7b63d80158563fec2ba0f7633?pvs=4)!

@@ -1,5 +1,9 @@
 # CSS3 (Básico) :book:
 
+:link: ​Notion: https://glowing-scilla-18d.notion.site/CSS3-B-sico-121bf6c7b63d80f189a0cc92cbc2cdd2?pvs=4
+
+
+
 É a sigla para "cascading style sheet" ou FOLHAS DE ESTILO EM CASCATA.
 
 A estilização respeita uma ordem de menor pra maior importância, por isso o "cascata" no nome.
