@@ -7,6 +7,7 @@ O **Dev Quest** é voltado para iniciantes e ensina de forma prática e descompl
 ## 📂 Estrutura do Repositório
 
 - `modulo-basico/`: Códigos de exemplos apresentados durante as aulas, desafios e exercícios práticos.
+- `modulo-intermediario/`: Códigos e projetos do módulo intermediário, abordando estilização avançada, responsividade e práticas mais elaboradas.
 
 
 
