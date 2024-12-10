@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    /* list-style-image: url('./images/check.png'); */
+    background-color: burlywood;
+    list-style: square inside url(./images/check.png);
+}
+
+ul li {
+    border: 1px solid black;
+    padding: 3px;
+}
+
+ol {
+    /* list-style-image: url('./images/check.png'); */
+    background-color: olive;
+    list-style: square inside url(./images/check.png);
+}
+
+ol li {
+    border: 1px solid black;
+    padding: 3px;
+}
