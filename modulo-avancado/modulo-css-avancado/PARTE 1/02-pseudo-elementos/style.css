@@ -1,0 +1,33 @@
+/* seletor: :pseudo-elemento {
+    propriedade: valor;
+} */
+
+.first-letter::first-letter {
+    color: coral
+}
+
+.first-line::first-line {
+    color: coral;
+}
+
+.first-line::first-letter {
+    color: blue;
+}
+
+li::marker {
+    color: red;
+    font-size: 40px;
+}
+
+.before::before {
+    content: url(./images/coracao-azul.png);
+    content: "";
+    background: url(./images/coracao-azul.png) center center no-repeat;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+
+.after::after {
+    content: url(./images/coracao-rosa.png);
+}

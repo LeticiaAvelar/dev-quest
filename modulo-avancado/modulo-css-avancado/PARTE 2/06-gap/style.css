@@ -1,0 +1,5 @@
+.gap {
+    display: flex;
+    flex-direction: row;
+    gap: 10% 5%;
+}

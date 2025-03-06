@@ -1,0 +1,53 @@
+body {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+}
+
+/* -------------------------- LOGO --------------------------- */
+
+.logo .imagem {
+    width: 60px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo h1 {
+    font-weight: 800;
+    font-size: 20px;
+}
+
+/* ------------------------ CABEÇALHO ---------------------- */
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 45px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu li a {
+    padding: 10px 5px;
+    transition: 0.3s ease-in-out;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+.menu li a:hover {
+    background-color: #5BC241;
+    color: #FFFFFF;
+}
+
+.menu li a.btn {
+    background-color: #5BC241;
+    color: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
